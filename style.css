@@ -26,15 +26,15 @@ body{
 }
 .image{
     background: #b3315f; background: -moz-linear-gradient(to right,  #b3315f 0%,#ffaa85 100%); background: -webkit-linear-gradient(to right,  #b3315f 0%,#ffaa85 100%); background: linear-gradient(to right,  #b3315f 0%,#ffaa85 100%);
-    width: 80px;
-    height: 80px;
+    width: 85px;
+    height: 85px;
     border-radius: 50%;
     padding: 5px;
     transform: translate(100px, 70px);
 }
 .image img{
-    width: 80px;
-    height: 80px;
+    width: 85px;
+    height: 85px;
     border-radius: 50%;
 }
 .lower{
